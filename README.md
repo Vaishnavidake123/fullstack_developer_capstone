@@ -1,13 +1,25 @@
-# Car Dealership Portal
+# Repository Name
+fullstack_developer_capstone
 
-From [IBM's Full Stack Application Development Capstone Project on Coursera](https://www.coursera.org/learn/ibm-cloud-native-full-stack-development-capstone)
+# Project Name
+Best Car Dealerships
 
-Demonstrates proficiency in:
-- Designing applications and their architecture 
-- Creating web frontends with static and dynamic pages using HTML, CSS, JavaScript and REACT
-- Implementing user management and authentication  
-- Developing backend services and communicating with databases 
-- Continuously Integrating and Deploying changes using CI/CD pipelines  
-- Deploying serverless applications on Code Engine 
-- Creating and invoking RESTful microservices 
-- Deploying the entire solution on Cloud using Kubernetes 
+## Project Description
+This project is a full-stack car dealership application developed using Django and React.
+
+The application allows users to:
+- View car dealerships
+- Search dealerships by state
+- View dealership details
+- Read dealership reviews
+- Register and log in
+- Submit dealership reviews
+
+## Technologies Used
+- Python
+- Django
+- React
+- Node.js
+- MongoDB
+- IBM Cloud
+- GitHub Actions
